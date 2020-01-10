@@ -1,6 +1,8 @@
 Books
 ###############
 
+:page_order: 3
+
 Books to read
 
 - [x] His Dark Materials - *Philip Pullman*

@@ -1,6 +1,7 @@
 Home
 ##############
 
+:page_order: 1
 :authors: Ruben Guerra
 :summary: Welcome to rugebiker
 :url:
